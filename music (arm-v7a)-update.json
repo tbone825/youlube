@@ -1,6 +1,6 @@
 {
-  "version": "v8.05.51 (patches: 5.20.0)",
-  "versionCode": 4,
-  "zipUrl": "https://github.com/tbone825/youlube/releases/download/4/music-revanced-magisk-v8.05.51-arm-v7a.zip",
+  "version": "v8.05.51 (patches: 5.20.1)",
+  "versionCode": 5,
+  "zipUrl": "https://github.com/tbone825/youlube/releases/download/5/music-revanced-magisk-v8.05.51-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/tbone825/youlube/update/build.md"
 }
