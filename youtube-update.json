@@ -1,6 +1,6 @@
 {
-  "version": "v20.14.43 (patches: 5.42.1)",
-  "versionCode": 29,
-  "zipUrl": "https://github.com/tbone825/youlube/releases/download/29/youtube-revanced-magisk-v20.14.43-all.zip",
+  "version": "v20.14.43 (patches: 5.43.0)",
+  "versionCode": 30,
+  "zipUrl": "https://github.com/tbone825/youlube/releases/download/30/youtube-revanced-magisk-v20.14.43-all.zip",
   "changelog": "https://raw.githubusercontent.com/tbone825/youlube/update/build.md"
 }
